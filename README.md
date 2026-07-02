@@ -55,7 +55,7 @@ ECOMMERCE_PRICE_TRACKER/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ecommerce-price-tracker.git
+git clone https://github.com/divya-09nimbalkar/ecommerce-price-tracker.git
 cd ecommerce-price-tracker
 
 ```
