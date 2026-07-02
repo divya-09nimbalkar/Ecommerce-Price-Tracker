@@ -1,13 +1,13 @@
 
 ---
 
-# 🛒 Ecommerce Price Tracker
+#  Ecommerce Price Tracker
 
 A robust Python-based data pipeline designed to scrape product prices from e-commerce websites, process and clean the raw data, perform analysis, and visualize pricing trends over time.
 
 ---
 
-## 🚀 Features
+##  Features
 
 * **Web Scraping:** Extract live product pricing data efficiently using `BeautifulSoup`.
 * **Data Pipeline:** Separate stages for raw data collection and cleaned, structured data processing.
@@ -17,7 +17,7 @@ A robust Python-based data pipeline designed to scrape product prices from e-com
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 ECOMMERCE_PRICE_TRACKER/
@@ -50,7 +50,7 @@ ECOMMERCE_PRICE_TRACKER/
 
 ---
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 ### 1. Clone the Repository
 
@@ -85,7 +85,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 ### Run the Pipeline
 
@@ -107,7 +107,7 @@ jupyter notebook notebooks/exploration-checkpoint.ipynb
 
 ---
 
-## 🧪 Running Tests
+##  Running Tests
 
 This project uses `pytest` for unit testing. To run the test suite and ensure all components are functioning as expected, execute:
 
